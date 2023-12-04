@@ -1,3 +1,8 @@
+Оживите свою кодовую базу AutoPR   
+Оригинальный репозитарий    
+https://github.com/irgolic/AutoPR
+
+
 <div align="center">
 
 <img src="website/static/img/AutoPR_Mark_color.png" alt="AutoPR logo" width=300 />
